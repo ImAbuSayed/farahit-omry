@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا فرحة عمري ونبض قلبي
+> أنت السكون في وسط دربي
+> شوقي إليك كنار تزيد
+> يا نور روحي والحب الوحيد
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
