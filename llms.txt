@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Farahit Omry |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/farahit-omry/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Usage Rights for Farahit Omry](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
