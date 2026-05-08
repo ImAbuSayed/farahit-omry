@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Farahit Omry
+
+This log tracks the cryptographic history and versioning for the song **Farahit Omry** (farahit-omry).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T20:14:41.009003 | `v1` | `5acf00e51a67fe616730df6d1906b8036b1b9e3376402b5db19efd16272bbbbb` | `1e09fd032e8b9814dd4da20ba113af57073c4f7313f1a4c90710cd65ad12d271` | `2026-05-08_farahit-omry-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
